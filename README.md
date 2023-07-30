@@ -5,7 +5,7 @@ This repository contains my solutions to the [HackerRank SQL Challenges](https:/
 ### Basic Select Challenges
 
 | Number | Challenges                                                                                                     |                       Solutions                        |
-|:---------------:|-----------------------|:---------------:|
+|:--------------------:|-----------------------------|:--------------------:|
 |   1    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)         |   [SQL](basic_select/revising-the-select-query.sql)    |
 |   2    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)      |  [SQL](basic_select/revising-the-select-query-2.sql)   |
 |   3    | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)                                     |         [SQL](basic_select/select-all-sql.sql)         |
@@ -30,5 +30,7 @@ This repository contains my solutions to the [HackerRank SQL Challenges](https:/
 ### Advanced Select Challenges
 
 | Number | Challenges                                                                              |                    Solutions                     |
-|:--------------------:|-----------------------------|:--------------------:|
+|:--------------------:|----------------------------|:--------------------:|
 |   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](advanced_select/what-type-of-triangle.sql) |
+|   2    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem)                      |       [SQL](advanced_select/the-pads.sql)        |
+|   3    | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)                |      [SQL](advanced_select/occupations.sql)      |
