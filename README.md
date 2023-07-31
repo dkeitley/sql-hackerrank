@@ -43,3 +43,5 @@ This repository contains my solutions to the [HackerRank SQL Challenges](https:/
 |   2    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                                             |            [SQL](basic_join/african-cities.sql)            |
 |   3    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](basic_join/average-population-of-each-continent.sql) |
 |   4    | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063)                                   |              [SQL](basic_join/the-report.sql)              |
+|   5    | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)                                                |              [SQL](basic_join/full-score.sql)              |
+|   6    | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)                             |        [SQL](basic_join/harry-potter-and-wands.sql)        |
