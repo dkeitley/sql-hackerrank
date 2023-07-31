@@ -5,7 +5,7 @@ This repository contains my solutions to the [HackerRank SQL Challenges](https:/
 ### Basic Select Challenges
 
 | Number | Challenges                                                                                                     |                       Solutions                        |
-|:--------------------:|-----------------------------|:--------------------:|
+|:--------------------:|----------------------------|:--------------------:|
 |   1    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)         |   [SQL](basic_select/revising-the-select-query.sql)    |
 |   2    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)      |  [SQL](basic_select/revising-the-select-query-2.sql)   |
 |   3    | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)                                     |         [SQL](basic_select/select-all-sql.sql)         |
@@ -34,3 +34,12 @@ This repository contains my solutions to the [HackerRank SQL Challenges](https:/
 |   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](advanced_select/what-type-of-triangle.sql) |
 |   2    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem)                      |       [SQL](advanced_select/the-pads.sql)        |
 |   3    | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)                |      [SQL](advanced_select/occupations.sql)      |
+
+### Basic Join Challenges
+
+| Number | Challenges                                                                                                                 |                         Solutions                          |
+|:--------------------:|----------------------------|:--------------------:|
+|   1    | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)                                         |           [SQL](basic_join/asian-population.sql)           |
+|   2    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                                             |            [SQL](basic_join/african-cities.sql)            |
+|   3    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](basic_join/average-population-of-each-continent.sql) |
+|   4    | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063)                                   |              [SQL](basic_join/the-report.sql)              |
